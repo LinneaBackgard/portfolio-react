@@ -12,7 +12,9 @@ A personal portfolio built with **React** and **CSS**.
 - CSS (custom)
 - Web3Forms API
 
-  src/
+ ## Project Structure
+```text
+src/
  ├─ components/
  │   ├─ about/
  │   │   ├─ About.jsx
@@ -32,6 +34,3 @@ A personal portfolio built with **React** and **CSS**.
  ├─ App.jsx
  ├─ global.css
  └─ main.jsx
-
-
-
