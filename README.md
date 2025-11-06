@@ -1,7 +1,6 @@
 # Linnéa Backgård – Portfolio
 
-A personal portfolio built with **React** and **CSS**, showcasing projects, skills, and contact information.
-
+A personal portfolio built with **React** and **CSS**.
 ## ✨ Features
 - Responsive design with clean, minimal layout  
 - Sections for About, Skills, and Contact  
