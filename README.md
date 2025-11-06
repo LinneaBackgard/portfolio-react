@@ -12,4 +12,26 @@ A personal portfolio built with **React** and **CSS**.
 - CSS (custom)
 - Web3Forms API
 
+  src/
+ ├─ components/
+ │   ├─ about/
+ │   │   ├─ About.jsx
+ │   │   └─ About.css
+ │   ├─ contact/
+ │   │   ├─ Contact.jsx
+ │   │   └─ Contact.css
+ │   ├─ hero/
+ │   │   ├─ Hero.jsx
+ │   │   └─ Hero.css
+ │   └─ navbar/
+ │       ├─ Navbar.jsx
+ │       └─ Navbar.css
+ ├─ assets/
+ │   └─ images/
+ │       └─ profilbild_hatt.jpeg
+ ├─ App.jsx
+ ├─ global.css
+ └─ main.jsx
+
+
 
